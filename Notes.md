@@ -11,4 +11,4 @@
 7. Can use NOAA gauges to look at SLR (San Juan, Mayaguez, Ch. Amalie, Lime Tree Bay) (https://tidesandcurrents.noaa.gov/sltrends/sltrends_us.html)
 8. Use gridded rainfall product to look at precip
 9. Climate and economic justice screening tool (https://screeningtool.geoplatform.gov/en/)
-10. 
+10. Can look at discharge for flood areas (or could look at SAR :/)
