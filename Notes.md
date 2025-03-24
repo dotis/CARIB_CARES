@@ -16,7 +16,7 @@
 
 
 #### Admin Mtg. 3/24/25 - Funds and invoicing
-1. Invoicing will be done once per quarter
+1. Invoicing will be done once per month as possible by Kayla Sizemore (current format is OK)
 2. USF award began in December 2024
-3. Current end date (according to subaward document dated 9/20/2024) is 8/31/2025 - Is this correct?
-4. Can we carry over funds into Y2?
+3. Current end date is 8/31/2025
+4. No carry over of funds into Y2
