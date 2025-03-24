@@ -12,3 +12,11 @@
 8. Use gridded rainfall product to look at precip
 9. Climate and economic justice screening tool (https://screeningtool.geoplatform.gov/en/)
 10. Can look at discharge for flood areas (or could look at SAR :/)
+
+
+
+#### Admin Mtg. 3/24/25 - Funds and invoicing
+1. Invoicing will be done once per quarter
+2. USF award began in December 2024
+3. Current end date (according to subaward document dated 9/20/2024) is 8/31/2025 - Is this correct?
+4. Can we carry over funds into Y2?
